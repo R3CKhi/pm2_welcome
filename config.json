@@ -1,0 +1,21 @@
+{
+    "guild": {
+        "id": "1064585583797731448"
+    },
+    "ses": {
+        "Kanal1": "1092712264664109108",
+        "Kanal2": "1092712295806816356",
+        "Kanal3": "1092712333714915328"      
+    },
+    "durum": [
+        "Dilva'm",
+        "HellDog - Welcome",
+        "d ♥ b",
+        "Reck Was here?"
+    ],
+    "token": {
+        "bot1": "MTA5MTQzODQ1ODIzODY2ODg0MA.GlWB9U.C2h6AgqG-XGymxmvZ7Y_5r474cIQSARnQGBlQ8",
+        "bot2": "MTA5MTQzODU1MjE4MjcwMjEyMA.GW3juW.FTh1uA8P9MzrxUC4zrOy_zJn549sP6hOcHXlNA",
+        "bot3": "MTA5MTQzODY3MjA0NzUxNzcwNg.GBJC9b.zOKIzpNVBiKZWNAgx58AjRTNiGVHx-jLk-vyKc"
+    }
+}

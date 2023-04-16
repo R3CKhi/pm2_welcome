@@ -1,0 +1,21 @@
+{
+  "name": "v13-jaylenozi",
+  "version": "1.0.0",
+  "description": "ananı sikim hayat",
+  "main": "app.config.js",
+  "scripts": {
+    "start": "pm2 start app.config.js"
+  },
+  "keywords": [],
+  "author": "R3CK",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^13.6.0",
+    "express": "^4.18.1",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.1-security",
+    "got": "^12.6.0",
+    "http": "^0.0.1-security"
+  }
+}
